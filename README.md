@@ -1,3 +1,3 @@
 # auto_tests_python
-Educa
-Эти слова для обучения гиту
+Education
+"This description for a Git assignment and check COMMIT function"
