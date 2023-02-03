@@ -1,3 +1,3 @@
 # auto_tests_python
-Education
+Educa
 Эти слова для обучения гиту
